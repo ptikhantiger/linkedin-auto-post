@@ -175,10 +175,26 @@
       "text_preview": "It is 6 PM on a Friday and Sarah is still staring at a screen of endless rows.\n\nShe had spent the last four hours manually copying property details from emails into her database.\n\nOne wrong copy-paste...",
       "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7482062306411986946/"
+    },
+    {
+      "id": "urn:li:share:7482716992295206912",
+      "timestamp": "2026-07-14T08:45:53.983112+00:00",
+      "post_type": "niche_solutions",
+      "topic": "How integrating AI chatbots using Claude Code transforms generic dashboards into intelligent hubs",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "nodejs",
+        "realestatetech",
+        "nextjs"
+      ],
+      "text_preview": "Most SaaS dashboards are just expensive graveyards of unread charts.\n\nUsers do not want to click through ten different filters to find out why their sales dropped. They want immediate, direct answers ...",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7482716992295206912/"
     }
   ],
-  "last_updated": "2026-07-12T13:24:24.699711+00:00",
-  "total_posts": 11,
+  "last_updated": "2026-07-14T08:45:53.983127+00:00",
+  "total_posts": 12,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -190,6 +206,7 @@
     "Why real estate agencies are moving away from generic templates to custom Flutter apps",
     "Vue.js vs Angular for enterprise dashboards: my honest take",
     "My favorite tools for testing AI API integrations before pushing to production",
-    "How automating workflow pipelines saved a real estate agency 20 hours a week"
+    "How automating workflow pipelines saved a real estate agency 20 hours a week",
+    "How integrating AI chatbots using Claude Code transforms generic dashboards into intelligent hubs"
   ]
 }
