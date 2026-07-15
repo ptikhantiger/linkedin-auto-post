@@ -191,10 +191,26 @@
       "text_preview": "Most SaaS dashboards are just expensive graveyards of unread charts.\n\nUsers do not want to click through ten different filters to find out why their sales dropped. They want immediate, direct answers ...",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7482716992295206912/"
+    },
+    {
+      "id": "urn:li:share:7483168801031839746",
+      "timestamp": "2026-07-15T14:41:13.236604+00:00",
+      "post_type": "client_growth_story",
+      "topic": "Rescuing a poorly scaled MERN application for a growing business",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "webdevelopment",
+        "aiautomation",
+        "supabase"
+      ],
+      "text_preview": "It was 2:00 PM on a Friday when my phone rang. The voice on the other end was pure panic.\n\n\"Ali, our platform is crashing every time we get more than fifty users online, and we just launched our bigge...",
+      "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7483168801031839746/"
     }
   ],
-  "last_updated": "2026-07-14T08:45:53.983127+00:00",
-  "total_posts": 12,
+  "last_updated": "2026-07-15T14:41:13.236621+00:00",
+  "total_posts": 13,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -207,6 +223,7 @@
     "Vue.js vs Angular for enterprise dashboards: my honest take",
     "My favorite tools for testing AI API integrations before pushing to production",
     "How automating workflow pipelines saved a real estate agency 20 hours a week",
-    "How integrating AI chatbots using Claude Code transforms generic dashboards into intelligent hubs"
+    "How integrating AI chatbots using Claude Code transforms generic dashboards into intelligent hubs",
+    "Rescuing a poorly scaled MERN application for a growing business"
   ]
 }
