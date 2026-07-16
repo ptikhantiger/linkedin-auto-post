@@ -207,10 +207,26 @@
       "text_preview": "It was 2:00 PM on a Friday when my phone rang. The voice on the other end was pure panic.\n\n\"Ali, our platform is crashing every time we get more than fifty users online, and we just launched our bigge...",
       "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7483168801031839746/"
+    },
+    {
+      "id": "urn:li:share:7483497644032589824",
+      "timestamp": "2026-07-16T12:27:55.448708+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "The intersection of software engineering and digital storytelling: Lessons from 'Forgotten Footsteps'",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "techfounders",
+        "saas",
+        "automation"
+      ],
+      "text_preview": "The best software does not just process data, it tells a story that keeps users hooked.\n\nIn web development, we often focus too much on database speeds and API endpoints. But users do not care about y...",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7483497644032589824/"
     }
   ],
-  "last_updated": "2026-07-15T14:41:13.236621+00:00",
-  "total_posts": 13,
+  "last_updated": "2026-07-16T12:27:55.448724+00:00",
+  "total_posts": 14,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -224,6 +240,7 @@
     "My favorite tools for testing AI API integrations before pushing to production",
     "How automating workflow pipelines saved a real estate agency 20 hours a week",
     "How integrating AI chatbots using Claude Code transforms generic dashboards into intelligent hubs",
-    "Rescuing a poorly scaled MERN application for a growing business"
+    "Rescuing a poorly scaled MERN application for a growing business",
+    "The intersection of software engineering and digital storytelling: Lessons from 'Forgotten Footsteps'"
   ]
 }
