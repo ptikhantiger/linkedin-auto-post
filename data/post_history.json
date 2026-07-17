@@ -223,10 +223,26 @@
       "text_preview": "The best software does not just process data, it tells a story that keeps users hooked.\n\nIn web development, we often focus too much on database speeds and API endpoints. But users do not care about y...",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7483497644032589824/"
+    },
+    {
+      "id": "urn:li:share:7483879204527390720",
+      "timestamp": "2026-07-17T13:44:06.524385+00:00",
+      "post_type": "tech_discovery",
+      "topic": "The future of real estate tech: AI, automation, and intelligent CRM integrations",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "claudecode",
+        "nodejs",
+        "replit"
+      ],
+      "text_preview": "Real estate agents do not need another database to manage; they need systems that close deals without human intervention.\n\nMost real estate CRMs today are just glorified spreadsheets. The future belon...",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7483879204527390720/"
     }
   ],
-  "last_updated": "2026-07-16T12:27:55.448724+00:00",
-  "total_posts": 14,
+  "last_updated": "2026-07-17T13:44:06.524401+00:00",
+  "total_posts": 15,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -241,6 +257,7 @@
     "How automating workflow pipelines saved a real estate agency 20 hours a week",
     "How integrating AI chatbots using Claude Code transforms generic dashboards into intelligent hubs",
     "Rescuing a poorly scaled MERN application for a growing business",
-    "The intersection of software engineering and digital storytelling: Lessons from 'Forgotten Footsteps'"
+    "The intersection of software engineering and digital storytelling: Lessons from 'Forgotten Footsteps'",
+    "The future of real estate tech: AI, automation, and intelligent CRM integrations"
   ]
 }
