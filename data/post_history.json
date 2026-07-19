@@ -255,10 +255,26 @@
       "text_preview": "You do not need a complex global state library in Next.js if you actually use the server-client boundary correctly.\n\nNext.js splits your application into server and client components. Wrapping your en...",
       "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7484235457011183616/"
+    },
+    {
+      "id": "urn:li:share:7484598234217103360",
+      "timestamp": "2026-07-19T13:21:17.045923+00:00",
+      "post_type": "client_growth_story",
+      "topic": "Building an intelligent content management system that merges AI with traditional databases",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "mernstack",
+        "techfounders",
+        "aiautomation"
+      ],
+      "text_preview": "I was on a Zoom call with a marketing founder who was visibly exhausted.\n\nShe had over ten thousand articles, assets, and transcripts scattered across Google Drive, Notion, and old SQL databases.\n\nFin...",
+      "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7484598234217103360/"
     }
   ],
-  "last_updated": "2026-07-18T13:19:44.162428+00:00",
-  "total_posts": 16,
+  "last_updated": "2026-07-19T13:21:17.045939+00:00",
+  "total_posts": 17,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -275,6 +291,7 @@
     "Rescuing a poorly scaled MERN application for a growing business",
     "The intersection of software engineering and digital storytelling: Lessons from 'Forgotten Footsteps'",
     "The future of real estate tech: AI, automation, and intelligent CRM integrations",
-    "State management in large scale Next.js applications"
+    "State management in large scale Next.js applications",
+    "Building an intelligent content management system that merges AI with traditional databases"
   ]
 }
