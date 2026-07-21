@@ -271,10 +271,26 @@
       "text_preview": "I was on a Zoom call with a marketing founder who was visibly exhausted.\n\nShe had over ten thousand articles, assets, and transcripts scattered across Google Drive, Notion, and old SQL databases.\n\nFin...",
       "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7484598234217103360/"
+    },
+    {
+      "id": "urn:li:share:7485242432754995203",
+      "timestamp": "2026-07-21T08:01:05.898698+00:00",
+      "post_type": "niche_solutions",
+      "topic": "Building scalable real estate portals: When to move past WordPress and into MERN",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "supabase",
+        "automation",
+        "reactjs"
+      ],
+      "text_preview": "Your WordPress real estate portal will crash the moment you cross 10,000 active property listings.\n\nMany property startups start on WordPress because it is quick and cheap.\nBut when you need real-time...",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7485242432754995203/"
     }
   ],
-  "last_updated": "2026-07-19T13:21:17.045939+00:00",
-  "total_posts": 17,
+  "last_updated": "2026-07-21T08:01:05.898716+00:00",
+  "total_posts": 18,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -292,6 +308,7 @@
     "The intersection of software engineering and digital storytelling: Lessons from 'Forgotten Footsteps'",
     "The future of real estate tech: AI, automation, and intelligent CRM integrations",
     "State management in large scale Next.js applications",
-    "Building an intelligent content management system that merges AI with traditional databases"
+    "Building an intelligent content management system that merges AI with traditional databases",
+    "Building scalable real estate portals: When to move past WordPress and into MERN"
   ]
 }
