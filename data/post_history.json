@@ -287,10 +287,26 @@
       "text_preview": "Your WordPress real estate portal will crash the moment you cross 10,000 active property listings.\n\nMany property startups start on WordPress because it is quick and cheap.\nBut when you need real-time...",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7485242432754995203/"
+    },
+    {
+      "id": "urn:li:share:7486776875927625728",
+      "timestamp": "2026-07-25T13:38:25.198579+00:00",
+      "post_type": "tech_discovery",
+      "topic": "The hidden potential of no-code tools like Lovable for professional software engineers",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "nextjs",
+        "realestatetech",
+        "replit"
+      ],
+      "text_preview": "Stop ignoring tools like Lovable just because you know how to write raw React code.\n\nAs a Next.js developer, I used to think visual builders were just for non-technical creators. I was wrong. These pl...",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7486776875927625728/"
     }
   ],
-  "last_updated": "2026-07-21T08:01:05.898716+00:00",
-  "total_posts": 18,
+  "last_updated": "2026-07-25T13:38:25.198594+00:00",
+  "total_posts": 19,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -309,6 +325,7 @@
     "The future of real estate tech: AI, automation, and intelligent CRM integrations",
     "State management in large scale Next.js applications",
     "Building an intelligent content management system that merges AI with traditional databases",
-    "Building scalable real estate portals: When to move past WordPress and into MERN"
+    "Building scalable real estate portals: When to move past WordPress and into MERN",
+    "The hidden potential of no-code tools like Lovable for professional software engineers"
   ]
 }
