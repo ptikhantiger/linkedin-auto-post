@@ -303,10 +303,26 @@
       "text_preview": "Stop ignoring tools like Lovable just because you know how to write raw React code.\n\nAs a Next.js developer, I used to think visual builders were just for non-technical creators. I was wrong. These pl...",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7486776875927625728/"
+    },
+    {
+      "id": "urn:li:share:7487136268565315584",
+      "timestamp": "2026-07-26T13:26:30.935719+00:00",
+      "post_type": "tech_discovery",
+      "topic": "The evolution of React and Next.js: What tech founders need to know",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "nodejs",
+        "claudecode",
+        "saas"
+      ],
+      "text_preview": "Stop treating Next.js as just a frontend framework.\n\nThe shift to React Server Components has fundamentally changed the modern web stack. Tech founders who still insist on building separate, heavy bac...",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7487136268565315584/"
     }
   ],
-  "last_updated": "2026-07-25T13:38:25.198594+00:00",
-  "total_posts": 19,
+  "last_updated": "2026-07-26T13:26:30.935753+00:00",
+  "total_posts": 20,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -326,6 +342,7 @@
     "State management in large scale Next.js applications",
     "Building an intelligent content management system that merges AI with traditional databases",
     "Building scalable real estate portals: When to move past WordPress and into MERN",
-    "The hidden potential of no-code tools like Lovable for professional software engineers"
+    "The hidden potential of no-code tools like Lovable for professional software engineers",
+    "The evolution of React and Next.js: What tech founders need to know"
   ]
 }
