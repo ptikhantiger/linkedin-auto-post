@@ -319,10 +319,26 @@
       "text_preview": "Stop treating Next.js as just a frontend framework.\n\nThe shift to React Server Components has fundamentally changed the modern web stack. Tech founders who still insist on building separate, heavy bac...",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7487136268565315584/"
+    },
+    {
+      "id": "urn:li:share:7487517126233112577",
+      "timestamp": "2026-07-27T14:39:54.558750+00:00",
+      "post_type": "niche_solutions",
+      "topic": "The architecture behind a high-performing SaaS product in the MERN stack",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "mernstack",
+        "fullstackdeveloper",
+        "supabase"
+      ],
+      "text_preview": "Your MERN stack SaaS is slow because you are abusing MongoDB.\n\nMost developers build a standard MERN application, hit 10,000 active users, and watch their dashboard load times jump to eight seconds. \n...",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7487517126233112577/"
     }
   ],
-  "last_updated": "2026-07-26T13:26:30.935753+00:00",
-  "total_posts": 20,
+  "last_updated": "2026-07-27T14:39:54.558768+00:00",
+  "total_posts": 21,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -343,6 +359,7 @@
     "Building an intelligent content management system that merges AI with traditional databases",
     "Building scalable real estate portals: When to move past WordPress and into MERN",
     "The hidden potential of no-code tools like Lovable for professional software engineers",
-    "The evolution of React and Next.js: What tech founders need to know"
+    "The evolution of React and Next.js: What tech founders need to know",
+    "The architecture behind a high-performing SaaS product in the MERN stack"
   ]
 }
