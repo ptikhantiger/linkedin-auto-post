@@ -335,10 +335,26 @@
       "text_preview": "Your MERN stack SaaS is slow because you are abusing MongoDB.\n\nMost developers build a standard MERN application, hit 10,000 active users, and watch their dashboard load times jump to eight seconds. \n...",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7487517126233112577/"
+    },
+    {
+      "id": "urn:li:share:7489310289679745025",
+      "timestamp": "2026-08-01T13:25:17.966373+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "MERN vs Next.js: My honest take on when to use which for your next startup",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "nextjs",
+        "aiautomation",
+        "automation"
+      ],
+      "text_preview": "Stop choosing MERN just because you know React, because Next.js is actually the faster way to get your startup product to market.\n\nMERN requires you to build and connect two separate worlds: a backend...",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7489310289679745025/"
     }
   ],
-  "last_updated": "2026-07-27T14:39:54.558768+00:00",
-  "total_posts": 21,
+  "last_updated": "2026-08-01T13:25:17.966391+00:00",
+  "total_posts": 22,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -360,6 +376,7 @@
     "Building scalable real estate portals: When to move past WordPress and into MERN",
     "The hidden potential of no-code tools like Lovable for professional software engineers",
     "The evolution of React and Next.js: What tech founders need to know",
-    "The architecture behind a high-performing SaaS product in the MERN stack"
+    "The architecture behind a high-performing SaaS product in the MERN stack",
+    "MERN vs Next.js: My honest take on when to use which for your next startup"
   ]
 }
