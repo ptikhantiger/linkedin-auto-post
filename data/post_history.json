@@ -351,10 +351,26 @@
       "text_preview": "Stop choosing MERN just because you know React, because Next.js is actually the faster way to get your startup product to market.\n\nMERN requires you to build and connect two separate worlds: a backend...",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7489310289679745025/"
+    },
+    {
+      "id": "urn:li:share:7489672676819767298",
+      "timestamp": "2026-08-02T13:25:18.386935+00:00",
+      "post_type": "client_growth_story",
+      "topic": "Bridging the gap between a founder's AI vision and practical engineering execution",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "webdevelopment",
+        "techfounders",
+        "realestatetech"
+      ],
+      "text_preview": "\"I can't show this to investors,\" the founder told me, staring at a screen of spinning loading wheels.\n\nHe had spent months and thousands of dollars building a complex AI agent for real estate lead qu...",
+      "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7489672676819767298/"
     }
   ],
-  "last_updated": "2026-08-01T13:25:17.966391+00:00",
-  "total_posts": 22,
+  "last_updated": "2026-08-02T13:25:18.386953+00:00",
+  "total_posts": 23,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -377,6 +393,7 @@
     "The hidden potential of no-code tools like Lovable for professional software engineers",
     "The evolution of React and Next.js: What tech founders need to know",
     "The architecture behind a high-performing SaaS product in the MERN stack",
-    "MERN vs Next.js: My honest take on when to use which for your next startup"
+    "MERN vs Next.js: My honest take on when to use which for your next startup",
+    "Bridging the gap between a founder's AI vision and practical engineering execution"
   ]
 }
