@@ -367,10 +367,26 @@
       "text_preview": "\"I can't show this to investors,\" the founder told me, staring at a screen of spinning loading wheels.\n\nHe had spent months and thousands of dollars building a complex AI agent for real estate lead qu...",
       "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7489672676819767298/"
+    },
+    {
+      "id": "urn:li:share:7490054648515588098",
+      "timestamp": "2026-08-03T14:43:07.505758+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "The reality of shipping AI-integrated products: It's not just API wrappers",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "mernstack",
+        "saas",
+        "replit"
+      ],
+      "text_preview": "Building a successful AI product is not about writing a clever prompt and calling an API.\n\nReal AI integration is about system resilience and data flow. You have to handle slow response times, API fai...",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7490054648515588098/"
     }
   ],
-  "last_updated": "2026-08-02T13:25:18.386953+00:00",
-  "total_posts": 23,
+  "last_updated": "2026-08-03T14:43:07.505771+00:00",
+  "total_posts": 24,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -394,6 +410,7 @@
     "The evolution of React and Next.js: What tech founders need to know",
     "The architecture behind a high-performing SaaS product in the MERN stack",
     "MERN vs Next.js: My honest take on when to use which for your next startup",
-    "Bridging the gap between a founder's AI vision and practical engineering execution"
+    "Bridging the gap between a founder's AI vision and practical engineering execution",
+    "The reality of shipping AI-integrated products: It's not just API wrappers"
   ]
 }
