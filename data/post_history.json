@@ -383,10 +383,26 @@
       "text_preview": "Building a successful AI product is not about writing a clever prompt and calling an API.\n\nReal AI integration is about system resilience and data flow. You have to handle slow response times, API fai...",
       "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7490054648515588098/"
+    },
+    {
+      "id": "urn:li:share:7490411497286782976",
+      "timestamp": "2026-08-04T14:21:06.888966+00:00",
+      "post_type": "client_growth_story",
+      "topic": "How automating workflow pipelines saved a real estate agency 20 hours a week",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "nextjs",
+        "nodejs",
+        "fullstackdeveloper"
+      ],
+      "text_preview": "It is 7 PM on a Friday. Most people are winding down for the weekend.\n\nBut Sarah, a real estate agency owner, is drowning in spreadsheets. She is manually copying lead data, typing out follow-up email...",
+      "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7490411497286782976/"
     }
   ],
-  "last_updated": "2026-08-03T14:43:07.505771+00:00",
-  "total_posts": 24,
+  "last_updated": "2026-08-04T14:21:06.888990+00:00",
+  "total_posts": 25,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
