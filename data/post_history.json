@@ -399,10 +399,26 @@
       "text_preview": "It is 7 PM on a Friday. Most people are winding down for the weekend.\n\nBut Sarah, a real estate agency owner, is drowning in spreadsheets. She is manually copying lead data, typing out follow-up email...",
       "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7490411497286782976/"
+    },
+    {
+      "id": "urn:li:share:7491134627894714368",
+      "timestamp": "2026-08-06T14:14:34.250117+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "Building robust authentication flows with Supabase in React applications",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "reactjs",
+        "webdevelopment",
+        "automation"
+      ],
+      "text_preview": "Most developers overcomplicate user authentication when they could let their database handle the heavy lifting.\n\nInstead of building custom backend routes, managing token refresh cycles, and writing e...",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7491134627894714368/"
     }
   ],
-  "last_updated": "2026-08-04T14:21:06.888990+00:00",
-  "total_posts": 25,
+  "last_updated": "2026-08-06T14:14:34.250134+00:00",
+  "total_posts": 26,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -427,6 +443,7 @@
     "The architecture behind a high-performing SaaS product in the MERN stack",
     "MERN vs Next.js: My honest take on when to use which for your next startup",
     "Bridging the gap between a founder's AI vision and practical engineering execution",
-    "The reality of shipping AI-integrated products: It's not just API wrappers"
+    "The reality of shipping AI-integrated products: It's not just API wrappers",
+    "Building robust authentication flows with Supabase in React applications"
   ]
 }
