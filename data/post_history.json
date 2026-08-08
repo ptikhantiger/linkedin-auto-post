@@ -431,10 +431,26 @@
       "text_preview": "Most AI-generated prototypes are just high-interest technical debt waiting to happen.\n\nIt is easy to prompt your way to a working MVP in an afternoon. But skipping database design, clean architecture,...",
       "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7491480242130149376/"
+    },
+    {
+      "id": "urn:li:share:7491838607800832001",
+      "timestamp": "2026-08-08T12:51:56.580395+00:00",
+      "post_type": "niche_solutions",
+      "topic": "How to rapidly deploy AI prototypes without sacrificing scalable backend structure",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "realestatetech",
+        "aiautomation",
+        "nextjs"
+      ],
+      "text_preview": "Most AI prototypes die in staging because their backends cannot scale.\n\nIn real estate tech, speed to market is everything. Founders want to show AI-driven property valuation tools to investors next w...",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7491838607800832001/"
     }
   ],
-  "last_updated": "2026-08-07T13:07:55.189729+00:00",
-  "total_posts": 27,
+  "last_updated": "2026-08-08T12:51:56.580410+00:00",
+  "total_posts": 28,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -461,6 +477,7 @@
     "Bridging the gap between a founder's AI vision and practical engineering execution",
     "The reality of shipping AI-integrated products: It's not just API wrappers",
     "Building robust authentication flows with Supabase in React applications",
-    "Balancing traditional software engineering best practices with rapid AI prototyping"
+    "Balancing traditional software engineering best practices with rapid AI prototyping",
+    "How to rapidly deploy AI prototypes without sacrificing scalable backend structure"
   ]
 }
