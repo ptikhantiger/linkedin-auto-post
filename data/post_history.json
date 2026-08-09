@@ -447,10 +447,26 @@
       "text_preview": "Most AI prototypes die in staging because their backends cannot scale.\n\nIn real estate tech, speed to market is everything. Founders want to show AI-driven property valuation tools to investors next w...",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7491838607800832001/"
+    },
+    {
+      "id": "urn:li:share:7492201617962860544",
+      "timestamp": "2026-08-09T12:54:24.591716+00:00",
+      "post_type": "niche_solutions",
+      "topic": "Why custom Next.js dashboards provide better business insights than out-of-the-box analytics",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "replit",
+        "saas",
+        "reactjs"
+      ],
+      "text_preview": "Out-of-the-box analytics tools are costing your business thousands in blind spots.\n\nMost tech founders install a generic analytics pixel and assume they are tracking growth. But generic dashboards onl...",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7492201617962860544/"
     }
   ],
-  "last_updated": "2026-08-08T12:51:56.580410+00:00",
-  "total_posts": 28,
+  "last_updated": "2026-08-09T12:54:24.591735+00:00",
+  "total_posts": 29,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -478,6 +494,7 @@
     "The reality of shipping AI-integrated products: It's not just API wrappers",
     "Building robust authentication flows with Supabase in React applications",
     "Balancing traditional software engineering best practices with rapid AI prototyping",
-    "How to rapidly deploy AI prototypes without sacrificing scalable backend structure"
+    "How to rapidly deploy AI prototypes without sacrificing scalable backend structure",
+    "Why custom Next.js dashboards provide better business insights than out-of-the-box analytics"
   ]
 }
