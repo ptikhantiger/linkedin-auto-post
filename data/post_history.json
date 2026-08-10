@@ -463,10 +463,26 @@
       "text_preview": "Out-of-the-box analytics tools are costing your business thousands in blind spots.\n\nMost tech founders install a generic analytics pixel and assume they are tracking growth. But generic dashboards onl...",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7492201617962860544/"
+    },
+    {
+      "id": "urn:li:share:7492568525010604032",
+      "timestamp": "2026-08-10T13:12:21.920866+00:00",
+      "post_type": "client_growth_story",
+      "topic": "Delivering a complex AI feature ahead of schedule using Claude Code",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "techfounders",
+        "fullstackdeveloper",
+        "nodejs"
+      ],
+      "text_preview": "It was 9:00 PM on a Thursday when my phone buzzed.\n\nMy client was launching their new platform in four days, but their data pipeline was broken.\n\nThey needed a complex AI feature to process user files...",
+      "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7492568525010604032/"
     }
   ],
-  "last_updated": "2026-08-09T12:54:24.591735+00:00",
-  "total_posts": 29,
+  "last_updated": "2026-08-10T13:12:21.920882+00:00",
+  "total_posts": 30,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -495,6 +511,7 @@
     "Building robust authentication flows with Supabase in React applications",
     "Balancing traditional software engineering best practices with rapid AI prototyping",
     "How to rapidly deploy AI prototypes without sacrificing scalable backend structure",
-    "Why custom Next.js dashboards provide better business insights than out-of-the-box analytics"
+    "Why custom Next.js dashboards provide better business insights than out-of-the-box analytics",
+    "Delivering a complex AI feature ahead of schedule using Claude Code"
   ]
 }
