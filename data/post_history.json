@@ -479,10 +479,26 @@
       "text_preview": "It was 9:00 PM on a Thursday when my phone buzzed.\n\nMy client was launching their new platform in four days, but their data pipeline was broken.\n\nThey needed a complex AI feature to process user files...",
       "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7492568525010604032/"
+    },
+    {
+      "id": "urn:li:share:7492930023813791746",
+      "timestamp": "2026-08-11T13:08:49.967640+00:00",
+      "post_type": "client_growth_story",
+      "topic": "The moment a startup realized their AI integration actually improved user retention",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "claudecode",
+        "automation",
+        "mernstack"
+      ],
+      "text_preview": "\"We are losing them by day three,\" the founder said, staring at the drop-off chart on his screen.\n\nIt was 11 PM on a Tuesday, and we were looking at a steep downward curve.\n\nUsers were signing up for ...",
+      "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7492930023813791746/"
     }
   ],
-  "last_updated": "2026-08-10T13:12:21.920882+00:00",
-  "total_posts": 30,
+  "last_updated": "2026-08-11T13:08:49.967658+00:00",
+  "total_posts": 31,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -512,6 +528,7 @@
     "Balancing traditional software engineering best practices with rapid AI prototyping",
     "How to rapidly deploy AI prototypes without sacrificing scalable backend structure",
     "Why custom Next.js dashboards provide better business insights than out-of-the-box analytics",
-    "Delivering a complex AI feature ahead of schedule using Claude Code"
+    "Delivering a complex AI feature ahead of schedule using Claude Code",
+    "The moment a startup realized their AI integration actually improved user retention"
   ]
 }
