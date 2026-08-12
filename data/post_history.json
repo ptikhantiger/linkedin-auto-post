@@ -495,10 +495,26 @@
       "text_preview": "\"We are losing them by day three,\" the founder said, staring at the drop-off chart on his screen.\n\nIt was 11 PM on a Tuesday, and we were looking at a steep downward curve.\n\nUsers were signing up for ...",
       "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7492930023813791746/"
+    },
+    {
+      "id": "urn:li:share:7493293568464310272",
+      "timestamp": "2026-08-12T13:13:25.744592+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "Optimizing MongoDB queries for AI-heavy real-time dashboards",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "replit",
+        "aiautomation",
+        "realestatetech"
+      ],
+      "text_preview": "Your AI dashboard is slow because you are asking MongoDB to do the thinking instead of just the fetching.\n\nWhen building real-time AI features, we often dump raw model outputs directly into the databa...",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7493293568464310272/"
     }
   ],
-  "last_updated": "2026-08-11T13:08:49.967658+00:00",
-  "total_posts": 31,
+  "last_updated": "2026-08-12T13:13:25.744609+00:00",
+  "total_posts": 32,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -529,6 +545,7 @@
     "How to rapidly deploy AI prototypes without sacrificing scalable backend structure",
     "Why custom Next.js dashboards provide better business insights than out-of-the-box analytics",
     "Delivering a complex AI feature ahead of schedule using Claude Code",
-    "The moment a startup realized their AI integration actually improved user retention"
+    "The moment a startup realized their AI integration actually improved user retention",
+    "Optimizing MongoDB queries for AI-heavy real-time dashboards"
   ]
 }
