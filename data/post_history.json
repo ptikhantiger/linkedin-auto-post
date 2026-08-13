@@ -511,10 +511,26 @@
       "text_preview": "Your AI dashboard is slow because you are asking MongoDB to do the thinking instead of just the fetching.\n\nWhen building real-time AI features, we often dump raw model outputs directly into the databa...",
       "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7493293568464310272/"
+    },
+    {
+      "id": "urn:li:share:7493656387487707136",
+      "timestamp": "2026-08-13T13:15:08.993473+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "MERN vs Next.js: My honest take on when to use which for your next startup",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "reactjs",
+        "webdevelopment",
+        "saas"
+      ],
+      "text_preview": "Choosing Next.js by default for your new startup is a trap that might slow your product delivery down by weeks.\n\nNext.js is incredible for public-facing websites where search engine ranking and fast i...",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7493656387487707136/"
     }
   ],
-  "last_updated": "2026-08-12T13:13:25.744609+00:00",
-  "total_posts": 32,
+  "last_updated": "2026-08-13T13:15:08.993490+00:00",
+  "total_posts": 33,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
