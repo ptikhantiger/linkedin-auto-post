@@ -527,10 +527,26 @@
       "text_preview": "Choosing Next.js by default for your new startup is a trap that might slow your product delivery down by weeks.\n\nNext.js is incredible for public-facing websites where search engine ranking and fast i...",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7493656387487707136/"
+    },
+    {
+      "id": "urn:li:share:7494017378385637377",
+      "timestamp": "2026-08-14T13:09:35.465375+00:00",
+      "post_type": "tech_discovery",
+      "topic": "How running a YouTube documentary channel improved my technical communication skills",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "techfounders",
+        "nodejs",
+        "fullstackdeveloper"
+      ],
+      "text_preview": "Running a YouTube documentary channel taught me more about software architecture than writing code ever did.\n\nWhen you make documentaries, you have to break down complex historical events into a ten-m...",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7494017378385637377/"
     }
   ],
-  "last_updated": "2026-08-13T13:15:08.993490+00:00",
-  "total_posts": 33,
+  "last_updated": "2026-08-14T13:09:35.465393+00:00",
+  "total_posts": 34,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -562,6 +578,7 @@
     "Why custom Next.js dashboards provide better business insights than out-of-the-box analytics",
     "Delivering a complex AI feature ahead of schedule using Claude Code",
     "The moment a startup realized their AI integration actually improved user retention",
-    "Optimizing MongoDB queries for AI-heavy real-time dashboards"
+    "Optimizing MongoDB queries for AI-heavy real-time dashboards",
+    "How running a YouTube documentary channel improved my technical communication skills"
   ]
 }
