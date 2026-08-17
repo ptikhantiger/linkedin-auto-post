@@ -575,10 +575,26 @@
       "text_preview": "It was 11:30 PM on a Tuesday when my phone buzzed. It was a real estate platform owner, and he was drowning in support tickets.\n\nHis team was spending six hours a day answering the exact same question...",
       "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7494735113772036096/"
+    },
+    {
+      "id": "urn:li:share:7495098824277905408",
+      "timestamp": "2026-08-17T12:46:52.700742+00:00",
+      "post_type": "niche_solutions",
+      "topic": "How integrating AI chatbots using Claude Code transforms generic dashboards into intelligent hubs",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "webdevelopment",
+        "automation",
+        "nextjs"
+      ],
+      "text_preview": "Most business dashboards are just expensive graveyards for data.\n\nUsers do not want to click through ten filters and export three CSVs just to find their weekly revenue trends. They want answers insta...",
+      "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7495098824277905408/"
     }
   ],
-  "last_updated": "2026-08-16T12:41:37.421752+00:00",
-  "total_posts": 36,
+  "last_updated": "2026-08-17T12:46:52.700757+00:00",
+  "total_posts": 37,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
