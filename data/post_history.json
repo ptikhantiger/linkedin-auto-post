@@ -591,10 +591,26 @@
       "text_preview": "Most business dashboards are just expensive graveyards for data.\n\nUsers do not want to click through ten filters and export three CSVs just to find their weekly revenue trends. They want answers insta...",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7495098824277905408/"
+    },
+    {
+      "id": "urn:li:share:7495461955164323841",
+      "timestamp": "2026-08-18T12:49:49.935336+00:00",
+      "post_type": "client_growth_story",
+      "topic": "Building an intelligent content management system that merges AI with traditional databases",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "saas",
+        "reactjs",
+        "techfounders"
+      ],
+      "text_preview": "\"Ali, our editors are spending three hours a day just tagging articles. And half the time, our search bar can't even find them.\"\n\nMy client was staring at a database of 10,000 articles, completely ove...",
+      "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7495461955164323841/"
     }
   ],
-  "last_updated": "2026-08-17T12:46:52.700757+00:00",
-  "total_posts": 37,
+  "last_updated": "2026-08-18T12:49:49.935352+00:00",
+  "total_posts": 38,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
