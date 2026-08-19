@@ -607,10 +607,26 @@
       "text_preview": "\"Ali, our editors are spending three hours a day just tagging articles. And half the time, our search bar can't even find them.\"\n\nMy client was staring at a database of 10,000 articles, completely ove...",
       "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7495461955164323841/"
+    },
+    {
+      "id": "urn:li:share:7495824555203014656",
+      "timestamp": "2026-08-19T12:50:40.510096+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "Why every modern developer needs to understand prompt engineering and workflow automation",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "fullstackdeveloper",
+        "claudecode",
+        "supabase"
+      ],
+      "text_preview": "The modern developer is no longer just a writer of code, but an orchestrator of automated workflows.\n\nPrompt engineering is not about writing clever chat prompts. It is about treating natural language...",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7495824555203014656/"
     }
   ],
-  "last_updated": "2026-08-18T12:49:49.935352+00:00",
-  "total_posts": 38,
+  "last_updated": "2026-08-19T12:50:40.510112+00:00",
+  "total_posts": 39,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -644,6 +660,7 @@
     "The moment a startup realized their AI integration actually improved user retention",
     "Optimizing MongoDB queries for AI-heavy real-time dashboards",
     "How running a YouTube documentary channel improved my technical communication skills",
-    "How we built a custom AI chatbot that reduced a client's support tickets by 40%"
+    "How we built a custom AI chatbot that reduced a client's support tickets by 40%",
+    "Why every modern developer needs to understand prompt engineering and workflow automation"
   ]
 }
