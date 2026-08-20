@@ -623,10 +623,26 @@
       "text_preview": "The modern developer is no longer just a writer of code, but an orchestrator of automated workflows.\n\nPrompt engineering is not about writing clever chat prompts. It is about treating natural language...",
       "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7495824555203014656/"
+    },
+    {
+      "id": "urn:li:share:7496187581047418881",
+      "timestamp": "2026-08-20T12:53:12.060122+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "Optimizing MongoDB queries for AI-heavy real-time dashboards",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "aiautomation",
+        "webdevelopment",
+        "realestatetech"
+      ],
+      "text_preview": "Your real-time AI dashboard is lagging because you are treating MongoDB like a simple data dump instead of an intelligent query engine.\n\nWhen AI models constantly fetch live data for predictions, stan...",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7496187581047418881/"
     }
   ],
-  "last_updated": "2026-08-19T12:50:40.510112+00:00",
-  "total_posts": 39,
+  "last_updated": "2026-08-20T12:53:12.060142+00:00",
+  "total_posts": 40,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
