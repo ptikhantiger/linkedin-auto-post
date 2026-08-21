@@ -639,10 +639,26 @@
       "text_preview": "Your real-time AI dashboard is lagging because you are treating MongoDB like a simple data dump instead of an intelligent query engine.\n\nWhen AI models constantly fetch live data for predictions, stan...",
       "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7496187581047418881/"
+    },
+    {
+      "id": "urn:li:share:7496549559180099586",
+      "timestamp": "2026-08-21T12:51:34.628264+00:00",
+      "post_type": "niche_solutions",
+      "topic": "Why custom Next.js dashboards provide better business insights than out-of-the-box analytics",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "nextjs",
+        "saas",
+        "mernstack"
+      ],
+      "text_preview": "Most SaaS founders are making critical decisions based on useless vanity metrics.\n\nStandard templates and out-of-the-box analytics tools tell you how many people visited your page. They do not tell yo...",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7496549559180099586/"
     }
   ],
-  "last_updated": "2026-08-20T12:53:12.060142+00:00",
-  "total_posts": 40,
+  "last_updated": "2026-08-21T12:51:34.628283+00:00",
+  "total_posts": 41,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
