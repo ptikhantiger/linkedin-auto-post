@@ -655,10 +655,26 @@
       "text_preview": "Most SaaS founders are making critical decisions based on useless vanity metrics.\n\nStandard templates and out-of-the-box analytics tools tell you how many people visited your page. They do not tell yo...",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7496549559180099586/"
+    },
+    {
+      "id": "urn:li:share:7496909506518528000",
+      "timestamp": "2026-08-22T12:41:52.887603+00:00",
+      "post_type": "tech_discovery",
+      "topic": "Discovering new ways to leverage Claude Code in complex MERN architecture",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "reactjs",
+        "fullstackdeveloper",
+        "nodejs"
+      ],
+      "text_preview": "Most developers are using Claude Code as a glorified autocomplete, but they are completely missing its real power in complex MERN architectures.\n\nWhen you feed it your entire local workspace context, ...",
+      "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7496909506518528000/"
     }
   ],
-  "last_updated": "2026-08-21T12:51:34.628283+00:00",
-  "total_posts": 41,
+  "last_updated": "2026-08-22T12:41:52.887622+00:00",
+  "total_posts": 42,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -693,6 +709,7 @@
     "Optimizing MongoDB queries for AI-heavy real-time dashboards",
     "How running a YouTube documentary channel improved my technical communication skills",
     "How we built a custom AI chatbot that reduced a client's support tickets by 40%",
-    "Why every modern developer needs to understand prompt engineering and workflow automation"
+    "Why every modern developer needs to understand prompt engineering and workflow automation",
+    "Discovering new ways to leverage Claude Code in complex MERN architecture"
   ]
 }
