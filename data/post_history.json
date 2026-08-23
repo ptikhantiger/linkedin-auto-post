@@ -671,10 +671,26 @@
       "text_preview": "Most developers are using Claude Code as a glorified autocomplete, but they are completely missing its real power in complex MERN architectures.\n\nWhen you feed it your entire local workspace context, ...",
       "image_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7496909506518528000/"
+    },
+    {
+      "id": "urn:li:share:7497272109212012544",
+      "timestamp": "2026-08-23T12:42:44.105032+00:00",
+      "post_type": "client_growth_story",
+      "topic": "How we built a custom AI chatbot that reduced a client's support tickets by 40%",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "supabase",
+        "techfounders",
+        "replit"
+      ],
+      "text_preview": "It was 11:30 PM on a Tuesday when my client sent a Slack message that simply said: \"We cannot keep up.\"\n\nTheir customer support team was drowning in repetitive questions.\n\nResponse times were slipping...",
+      "image_url": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7497272109212012544/"
     }
   ],
-  "last_updated": "2026-08-22T12:41:52.887622+00:00",
-  "total_posts": 42,
+  "last_updated": "2026-08-23T12:42:44.105049+00:00",
+  "total_posts": 43,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
