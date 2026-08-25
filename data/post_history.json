@@ -703,10 +703,26 @@
       "text_preview": "Most AI prototypes die because developers sacrifice backend architecture for speed.\n\nWhen building a new SaaS dashboard or an AI chatbot, the pressure to ship quickly is intense. Tech founders often h...",
       "image_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7497637212759621632/"
+    },
+    {
+      "id": "urn:li:share:7497998854047379459",
+      "timestamp": "2026-08-25T12:50:33.323985+00:00",
+      "post_type": "tech_discovery",
+      "topic": "Why clean code still matters even when AI is writing half of it",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "reactjs",
+        "saas",
+        "mernstack"
+      ],
+      "text_preview": "AI code generation is the fastest way to build a legacy codebase you will absolutely hate in six months.\n\nJust because an LLM can spit out a React component in three seconds does not mean it is produc...",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7497998854047379459/"
     }
   ],
-  "last_updated": "2026-08-24T12:53:31.387291+00:00",
-  "total_posts": 44,
+  "last_updated": "2026-08-25T12:50:33.324003+00:00",
+  "total_posts": 45,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -742,6 +758,7 @@
     "How running a YouTube documentary channel improved my technical communication skills",
     "How we built a custom AI chatbot that reduced a client's support tickets by 40%",
     "Why every modern developer needs to understand prompt engineering and workflow automation",
-    "Discovering new ways to leverage Claude Code in complex MERN architecture"
+    "Discovering new ways to leverage Claude Code in complex MERN architecture",
+    "Why clean code still matters even when AI is writing half of it"
   ]
 }
