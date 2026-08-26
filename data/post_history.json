@@ -719,10 +719,26 @@
       "text_preview": "AI code generation is the fastest way to build a legacy codebase you will absolutely hate in six months.\n\nJust because an LLM can spit out a React component in three seconds does not mean it is produc...",
       "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7497998854047379459/"
+    },
+    {
+      "id": "urn:li:share:7498362476363894784",
+      "timestamp": "2026-08-26T12:55:28.043664+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "State management in large scale Next.js applications",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "fullstackdeveloper",
+        "nodejs",
+        "supabase"
+      ],
+      "text_preview": "Stop treating your Next.js state management like a traditional React app or you will kill your application's performance.\n\nNext.js splits your code between the server and the browser. If you force hea...",
+      "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7498362476363894784/"
     }
   ],
-  "last_updated": "2026-08-25T12:50:33.324003+00:00",
-  "total_posts": 45,
+  "last_updated": "2026-08-26T12:55:28.043681+00:00",
+  "total_posts": 46,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
