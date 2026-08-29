@@ -767,10 +767,26 @@
       "text_preview": "\"I need a refund,\" the email read. It was the third one that morning.\n\nMy client was trying to sell highly customizable, modular industrial parts on Shopify. But Shopify's standard checkout kept choki...",
       "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7499221663239004160/"
+    },
+    {
+      "id": "urn:li:share:7499501733807816704",
+      "timestamp": "2026-08-29T16:22:28.215581+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "My tech stack for building fast, intelligent SaaS products in 2026",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "fullstackdeveloper",
+        "mernstack",
+        "saas"
+      ],
+      "text_preview": "The fastest SaaS products in 2026 do not run AI operations on the main web server.\n\nWhen you build with the MERN stack, Node.js is excellent for handling fast user traffic. But if you force it to proc...",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7499501733807816704/"
     }
   ],
-  "last_updated": "2026-08-28T21:49:33.754578+00:00",
-  "total_posts": 48,
+  "last_updated": "2026-08-29T16:22:28.215596+00:00",
+  "total_posts": 49,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
@@ -808,6 +824,7 @@
     "Why every modern developer needs to understand prompt engineering and workflow automation",
     "Discovering new ways to leverage Claude Code in complex MERN architecture",
     "Why clean code still matters even when AI is writing half of it",
-    "Why a client chose custom Next.js over Shopify for their specialized product platform"
+    "Why a client chose custom Next.js over Shopify for their specialized product platform",
+    "My tech stack for building fast, intelligent SaaS products in 2026"
   ]
 }
