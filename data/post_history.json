@@ -783,10 +783,26 @@
       "text_preview": "The fastest SaaS products in 2026 do not run AI operations on the main web server.\n\nWhen you build with the MERN stack, Node.js is excellent for handling fast user traffic. But if you force it to proc...",
       "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7499501733807816704/"
+    },
+    {
+      "id": "urn:li:share:7499862417536086016",
+      "timestamp": "2026-08-30T16:15:41.434721+00:00",
+      "post_type": "tech_discovery",
+      "topic": "How running a YouTube documentary channel improved my technical communication skills",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "supabase",
+        "nodejs",
+        "reactjs"
+      ],
+      "text_preview": "The best way to become a better software engineer is not by writing more code. It is by explaining complex ideas to a kid on YouTube.\n\nWhen I started my YouTube documentary channel, I had to stop hidi...",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7499862417536086016/"
     }
   ],
-  "last_updated": "2026-08-29T16:22:28.215596+00:00",
-  "total_posts": 49,
+  "last_updated": "2026-08-30T16:15:41.434739+00:00",
+  "total_posts": 50,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
