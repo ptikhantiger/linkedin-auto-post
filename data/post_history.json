@@ -799,10 +799,26 @@
       "text_preview": "The best way to become a better software engineer is not by writing more code. It is by explaining complex ideas to a kid on YouTube.\n\nWhen I started my YouTube documentary channel, I had to stop hidi...",
       "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7499862417536086016/"
+    },
+    {
+      "id": "urn:li:share:7500265004001251328",
+      "timestamp": "2026-08-31T18:55:25.471010+00:00",
+      "post_type": "client_growth_story",
+      "topic": "Delivering a complex AI feature ahead of schedule using Claude Code",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "realestatetech",
+        "nextjs",
+        "techfounders"
+      ],
+      "text_preview": "It was 9:00 PM on a Thursday when my client called, sounding completely stressed out. They had a massive enterprise demo on Monday morning, but their core AI parsing engine was still failing on comple...",
+      "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7500265004001251328/"
     }
   ],
-  "last_updated": "2026-08-30T16:15:41.434739+00:00",
-  "total_posts": 50,
+  "last_updated": "2026-08-31T18:55:25.471028+00:00",
+  "total_posts": 51,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
