@@ -831,10 +831,26 @@
       "text_preview": "Most SaaS founders are making critical decisions based on generic analytics that actually lie to them.\n\nStandard out-of-the-box tracking tools tell you how many users visited a page, but they fail to ...",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7500586945073459202/"
+    },
+    {
+      "id": "urn:li:share:7500948165240676354",
+      "timestamp": "2026-09-02T16:10:03.881652+00:00",
+      "post_type": "niche_solutions",
+      "topic": "How to rapidly deploy AI prototypes without sacrificing scalable backend structure",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "aiautomation",
+        "mernstack",
+        "claudecode"
+      ],
+      "text_preview": "Most AI prototypes die in production because the backend was built like a house of cards.\n\nFounders want AI features shipped yesterday, leading developers to rush frontends using rapid prototyping too...",
+      "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7500948165240676354/"
     }
   ],
-  "last_updated": "2026-09-01T16:14:42.754371+00:00",
-  "total_posts": 52,
+  "last_updated": "2026-09-02T16:10:03.881668+00:00",
+  "total_posts": 53,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
