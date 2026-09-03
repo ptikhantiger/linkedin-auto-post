@@ -847,10 +847,26 @@
       "text_preview": "Most AI prototypes die in production because the backend was built like a house of cards.\n\nFounders want AI features shipped yesterday, leading developers to rush frontends using rapid prototyping too...",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7500948165240676354/"
+    },
+    {
+      "id": "urn:li:share:7501307818356961280",
+      "timestamp": "2026-09-03T15:59:12.333004+00:00",
+      "post_type": "expertise_showcase",
+      "topic": "MERN vs Next.js: My honest take on when to use which for your next startup",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "supabase",
+        "saas",
+        "nodejs"
+      ],
+      "text_preview": "Stop building every new startup on Next.js just because of the hype; sometimes a traditional MERN stack will save your product from early death.\n\nNext.js is incredible for public websites where Google...",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7501307818356961280/"
     }
   ],
-  "last_updated": "2026-09-02T16:10:03.881668+00:00",
-  "total_posts": 53,
+  "last_updated": "2026-09-03T15:59:12.333022+00:00",
+  "total_posts": 54,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
