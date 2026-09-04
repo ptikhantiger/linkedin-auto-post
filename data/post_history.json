@@ -863,10 +863,26 @@
       "text_preview": "Stop building every new startup on Next.js just because of the hype; sometimes a traditional MERN stack will save your product from early death.\n\nNext.js is incredible for public websites where Google...",
       "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7501307818356961280/"
+    },
+    {
+      "id": "urn:li:share:7501669628432244736",
+      "timestamp": "2026-09-04T15:56:54.146999+00:00",
+      "post_type": "tech_discovery",
+      "topic": "The evolution of React and Next.js: What tech founders need to know",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "techfounders",
+        "realestatetech",
+        "reactjs"
+      ],
+      "text_preview": "If your startup is still building pure client-side React apps, you are burning your runway on solved problems.\n\nReact is no longer just a frontend library. With the shift toward Next.js and Server Com...",
+      "image_url": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7501669628432244736/"
     }
   ],
-  "last_updated": "2026-09-03T15:59:12.333022+00:00",
-  "total_posts": 54,
+  "last_updated": "2026-09-04T15:56:54.147015+00:00",
+  "total_posts": 55,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
