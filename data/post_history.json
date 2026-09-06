@@ -895,10 +895,26 @@
       "text_preview": "Most business dashboards are graveyard data dumps that your users are actively ignoring.\n\nThey do not want to click through twenty filters or decipher complex charts just to find one simple trend. The...",
       "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop",
       "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7502014526544863233/"
+    },
+    {
+      "id": "urn:li:share:7502381759196590081",
+      "timestamp": "2026-09-06T15:06:39.489900+00:00",
+      "post_type": "client_growth_story",
+      "topic": "The moment a startup realized their AI integration actually improved user retention",
+      "hashtags": [
+        "softwareengineering",
+        "ai",
+        "mernstack",
+        "aiautomation",
+        "supabase"
+      ],
+      "text_preview": "It is 11 PM on a Tuesday. My client, a SaaS founder, is staring at a dashboard of dropping user retention numbers.\n\nPeople were signing up, trying the app once, and never coming back.\n\nThe issue was p...",
+      "image_url": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1200&auto=format&fit=crop",
+      "linkedin_url": "https://www.linkedin.com/feed/update/urn:li:share:7502381759196590081/"
     }
   ],
-  "last_updated": "2026-09-05T14:47:24.730212+00:00",
-  "total_posts": 56,
+  "last_updated": "2026-09-06T15:06:39.489916+00:00",
+  "total_posts": 57,
   "topics_used": [
     "Automating property bookings and tenant management with Node.js and Express",
     "WordPress theme customization: going beyond page builders to write actual code",
